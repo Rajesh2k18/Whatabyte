@@ -1,0 +1,19 @@
+{
+  "name": "whatabyte",
+  "version": "1.0.0",
+  "description": "A restaurant named Whatabyte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajesh2k18/Whatabyte.git"
+  },
+  "author": "Rajesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajesh2k18/Whatabyte/issues"
+  },
+  "homepage": "https://github.com/Rajesh2k18/Whatabyte#readme"
+}
